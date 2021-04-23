@@ -1,7 +1,14 @@
 /example01-xhr/dist/
 /example02-jquery/dist/
 /example03-fetch/dist/
+/example04-axios/dist/
 
 /example01-xhr/node_modules/
 /example02-jquery/node_modules/
 /example03-fetch/node_modules/
+/example04-axios/node_modules/
+
+
+/example05-ajax-form/back/node_modules/
+/example05-ajax-form/front/node_modules/
+
